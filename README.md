@@ -23,9 +23,11 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 * JavaScript, ES6, REST
 * jQuery, Bootstrap
 
-### **Databases**:
+### **Databases and storages**:
 * MySQL 
 * Postgres
+* Redis
+* ArangoDb (familiar)
 
 ### **Testing**:
 * PHPUnit, TDD
