@@ -1,11 +1,9 @@
 ## Shcherbak Aleksei | PHP Developer
 
-![avatar](./ava.jpg)
 
 Creative PHP (Laravel) Developer with 4+ years of strong experience in backend (PHP, Laravel, C#, .NET) and frontend (vue, jQuery), 
 GOF Design Patterns & OOP areas with willingness to learn new technologies and languages like Golang or Python.
 
-[>> PDF version <<](./Aleksej_Shherbak_Laravel_PHP_Developer.pdf)
 
 ## CONTACTS
 * **Phone**: +7-911-911-4396
@@ -57,11 +55,20 @@ https://pushapp.ru
 * Performance tunning of the legacy web applications.
 * Mentoring and couching newly hired team members.
 
+### **Chinese Tour Operator Qiankun, Laravel Developer, June 2018 — August 2018** 
+* Creating internal business management system from scratch using Laravel and PHP.
+
 ### **Blackidea, Fullstack Developer, December 2017 — June 2018** 
 * Full Stack development of the high-volume eCommerce website using PHP and Bitrix framework.
 * Developing web applications from scratch using the company's own architecture PHP boilerplate.
 
-### **Seventest, Backend Developer (intern), Backend Developer, February 2015 —June 2015** 
+### **Miiix (smart eShop catalog), Backend Developer, December 2016 — December 2017**
+* Parsing and scraping web pages using php and regexp. 
+
+### **Binardy web studio, Fullstack Developer, June 2015 — December 2016**
+* Creating and supporting internet shops using PHP.
+
+### **Seventest, Backend Developer (intern), Backend Developer, February 2015 — June 2015** 
 http://seventest.ru/ 
 
 * Support legacy web-application using LAMP stack and Drupal 6. 
