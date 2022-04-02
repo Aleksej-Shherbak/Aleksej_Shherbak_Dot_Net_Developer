@@ -35,33 +35,29 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 ### **DevOps**:
 * Familiar with Gitlab CI, Jenkins, Github actions, Azure devops
 
-### **Additional instruments**:
-* Git, Rest, xDebug, Docker / docker-compose
-
-### **SDLC**:
-* GoF Design Patterns, OOP
+### **Additional instruments and skils**:
+* Git, Rest, xDebug, Docker / docker-compose, GoF Design Patterns, OOP
 
 ## WORK HISTORY
 
 ### **Quantum Art, Backend Developer, September 2020 - till now** 
  https://quantumart.ru 
 
-* Conducting requirements gathering and validation as a part of collaboration for the critical parts of a big telecom operator's website.
+* Assessing, gathering and validation project requirements using Agile & Scrum principles related to the critical parts of a big telecom operator's website resulting in estimation of Level of effort and required working hours.
 * Developing new and customization of the existing features (backend 80%, frontend 20%) for the high-volume telecom operator website.
 * Documenting implemented features.
-* Assessing project requirements using Agile & Scrum principles related to the critical parts of a big telecom operator's website resulting in estimation of Level of effort and required working hours.
 
 ### **PushApp, Backend Developer, Fullstack Developer, August 2018 — June 2020** 
 https://pushapp.ru
 
-* Maintaining newly developed and legacy systems critical internal web application utilizing PHP, Laravel, Codeigniter, JavaScript and ES6, jQuery.
+* Maintaining newly developed and legacy systems critical internal web application utilizing PHP, Laravel, Codeigniter, JavaScript and ES6, Vue.JS, jQuery.
 * Designing new databases and data schemas for the business-critical online service improving data integrity and execution efficiency.
-* Creating new web applications from scratch
-* Full Stack development of the high-volume analytical-facing web application applying knowledge of Vue/Vuex and Rest.
-* Performance tunning of the legacy data storages.
+* Creating new web applications from scratch.
+* Full Stack development of the high-volume analytical-facing web application applying knowledge of Vue/Vuex and Laravel.
+* Performance tunning of the legacy web applications.
 * Mentoring and couching newly hired team members.
 
-### **Blackidea, Fullstack Developer, Fullstack Developer, December 2017 — June 2018** 
+### **Blackidea, Fullstack Developer, December 2017 — June 2018** 
 * Full Stack development of the high-volume eCommerce website using PHP and Bitrix framework.
 * Developing web applications from scratch using the company's own architecture PHP boilerplate.
 
@@ -78,14 +74,13 @@ http://seventest.ru/
 * https://skylink.ru (Support and customization of the existing features)
 
 ## EDUCATION
-* St. Petersburg State University of Telecommunications named after Prof. M.A. Bonch-Bruevich 2018
+* St. Petersburg State University of Telecommunications named after Prof. M.A. Bonch-Bruevich, 2018
 
 ## MY STRENGTHS
-I do not shift my job to someone else. If I have a problem, and I can't solve it, at the same
-time, I know that one of my colleagues is unlikely to answer me right away, I'd better go to
-Stackoverflow and ask there.
+I do not shift my job to someone else. If I have a problem, and I can't solve it, and it's clear that
+my colleagues is unlikely to answer me right away, I'd better go to Stackoverflow and ask.
 In addition to programming, I like music, play guitar in a band. I try to develop
-comprehensively and not be a "troglodyte", shielded from the outside world by a wall of monitors.
+comprehensively and not be a "troglodyte", shielded from the whole world by a wall of monitors.
 
 ## ADDITIONAL INFORMATION
 * English language: B2
