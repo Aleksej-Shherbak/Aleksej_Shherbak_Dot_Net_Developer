@@ -39,7 +39,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 * Git, Rest, xDebug, Docker / docker-compose
 
 ### **SDLC**:
-* BRD, GoF Design Patterns, OOP
+* GoF Design Patterns, OOP
 
 ## WORK HISTORY
 
