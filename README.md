@@ -1,9 +1,11 @@
 ## Shcherbak Aleksei | PHP Developer
 
+![avatar](./ava.jpg)
 
 Creative PHP (Laravel) Developer with 4+ years of strong experience in backend (PHP, Laravel, C#, .NET) and frontend (vue, jQuery), 
 GOF Design Patterns & OOP areas with willingness to learn new technologies and languages like Golang or Python.
 
+[>> PDF version <<](./Aleksej_Shherbak_Laravel_PHP_Developer.pdf)
 
 ## CONTACTS
 * **Phone**: +7-911-911-4396
