@@ -1,9 +1,9 @@
-## Shcherbak Aleksei | PHP Developer
+## Shcherbak Aleksei | .NET Developer
 
 ![avatar](./ava.jpg)
 
-Creative PHP (Laravel) Developer with 4+ years of strong experience in backend (PHP, Laravel, C#, .NET) and frontend (vue, jQuery), 
-GOF Design Patterns & OOP areas with willingness to learn new technologies and languages like Golang or Python.
+Creative .NET Developer with 4+ years of strong experience in backend (C#, .NET, WebApi, MVC) and frontend (vue, React, jQuery), 
+GOF Design Patterns & OOP areas with willingness to learn new technologies.
 
 [>> PDF version <<](./Aleksej_Shherbak_Laravel_PHP_Developer.pdf)
 
@@ -15,32 +15,34 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 ## KEY SKILLS
 
 ### **Back End**:
-* PHP: 5, 7, 8, Laravel, Lumen
-* C# (as an additional language)
+* .NET: C#, MVC, WebApi
+* PHP (as an additional language)
 
 ### **Front End**:
-* Vue, CSS, HTML
-* JavaScript, ES6, REST
-* jQuery, Bootstrap
+* Vue, React, CSS, HTML
+* JavaScript, ES6
+* jQuery, Bootstrap, MUI
 
-### **Databases and storages**:
-* MySQL 
+### **Databases and storages**: 
 * Postgres
 * Redis
 * ArangoDb (familiar)
 
 ### **Testing**:
-* PHPUnit, TDD
+* TDD
 
 ### **DevOps**:
-* Familiar with Gitlab CI, Jenkins, Github actions, Azure devops
+* Familiar with Azure devops, Bitbacket Pipelines
 
 ### **Additional instruments and skils**:
-* Git, Rest, xDebug, Docker / docker-compose, GoF Design Patterns, OOP
+* Git, Rest, Docker / docker-compose, GoF Design Patterns, OOP
 
 ## WORK HISTORY
 
-### **Quantum Art, Backend Developer, September 2020 - till now** 
+### **Waveaccess, Fullstack Developer,  April 2022 - till now** 
+https://www.wave-access.com/
+
+### **Quantum Art, Backend Developer, September 2020 - April 2022** 
  https://quantumart.ru 
 
 * Assessing, gathering and validation project requirements using Agile & Scrum principles related to the critical parts of a big telecom operator's website resulting in estimation of Level of effort and required working hours.
@@ -50,22 +52,21 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 ### **PushApp, Backend Developer, Fullstack Developer, August 2018 — June 2020** 
 https://pushapp.ru
 
-* Maintaining newly developed and legacy systems critical internal web application utilizing PHP, Laravel, Codeigniter, JavaScript and ES6, Vue.JS, jQuery.
+* Maintaining newly developed and legacy systems critical internal web application.
 * Designing new databases and data schemas for the business-critical online service improving data integrity and execution efficiency.
 * Creating new web applications from scratch.
-* Full Stack development of the high-volume analytical-facing web application applying knowledge of Vue/Vuex and Laravel.
+* Full Stack development of the high-volume analytical-facing web application applying knowledge of Vue/Vuex and .NET.
 * Performance tunning of the legacy web applications.
 * Mentoring and couching newly hired team members.
 
 ### **Chinese Tour Operator Qiankun, Laravel Developer, June 2018 — August 2018** 
-* Creating internal business management system from scratch using Laravel and PHP.
+* Creating internal business management system from scratch.
 
 ### **Blackidea, Fullstack Developer, December 2017 — June 2018** 
-* Full Stack development of the high-volume eCommerce website using PHP and Bitrix framework.
-* Developing web applications from scratch using the company's own architecture PHP boilerplate.
+* Full Stack development of the high-volume eCommerce website.
 
 ### **Miiix (smart eShop catalog), Backend Developer, December 2016 — December 2017**
-* Parsing and scraping web pages using php and regexp. 
+* Parsing and scraping web pages. 
 
 ### **Binardy web studio, Fullstack Developer, June 2015 — December 2016**
 * Creating and supporting internet shops using PHP.
@@ -73,7 +74,7 @@ https://pushapp.ru
 ### **Seventest, Backend Developer (intern), Backend Developer, February 2015 — June 2015** 
 http://seventest.ru/ 
 
-* Support legacy web-application using LAMP stack and Drupal 6. 
+* Support legacy web-application. 
 
 ## PROJECTS
 * https://pushapp.ru (creating own CMS using Laravel)
