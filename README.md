@@ -50,7 +50,6 @@ https://www.wave-access.com/
 * Documenting implemented features.
 
 ### **PushApp, Backend Developer, Fullstack Developer, August 2018 — June 2020** 
-https://pushapp.ru
 
 * Maintaining newly developed and legacy systems critical internal web application.
 * Designing new databases and data schemas for the business-critical online service improving data integrity and execution efficiency.
@@ -77,7 +76,6 @@ http://seventest.ru/
 * Support legacy web-application. 
 
 ## PROJECTS
-* https://pushapp.ru (creating own CMS using Laravel)
 * https://payforinstall.ru (maintains critical features using Codeigniter)
 * https://new.rodovoederevo.ru/ (implementing different backend features and background tasks using .NET Core 3.1 and C#)
 * https://mts.ru (Maintaining legacy parts of the website, creating new features according to business demands)
