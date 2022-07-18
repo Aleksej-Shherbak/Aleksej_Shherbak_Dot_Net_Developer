@@ -29,7 +29,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies.
 * ArangoDb (familiar)
 
 ### **Testing**:
-* TDD
+* NUnit
 
 ### **DevOps**:
 * Familiar with Azure devops, Bitbacket Pipelines
