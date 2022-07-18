@@ -2,10 +2,10 @@
 
 ![avatar](./ava.jpg)
 
-Creative .NET Developer with 4+ years of strong experience in backend (C#, .NET, WebApi, MVC) and frontend (vue, React, jQuery), 
+Creative .NET Developer with 4 years of commercial experience in backend (C#, .NET, WebApi, MVC) and frontend (vue, React, jQuery), 
 GOF Design Patterns & OOP areas with willingness to learn new technologies.
 
-[>> PDF version <<](./Aleksej_Shherbak_Laravel_PHP_Developer.pdf)
+[>> PDF version <<](./README.pdf)
 
 ## CONTACTS
 * **Phone**: +7-911-911-4396
