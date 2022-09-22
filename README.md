@@ -8,9 +8,10 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies.
 [>> PDF version <<](./README.pdf)
 
 ## CONTACTS
+* **Telegram**: https://t.me/aleksej_shherbak
 * **Phone**: +7-911-911-4396
 * **Email**: aleksej.shherbak@yandex.ru
-* LinkedIn: https://www.linkedin.com/in/aleksej-shherbak-538914165/
+* **LinkedIn**: https://www.linkedin.com/in/aleksej-shherbak-538914165/
 
 ## KEY SKILLS
 
@@ -34,7 +35,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies.
 ### **DevOps**:
 * Familiar with Azure devops, Bitbacket Pipelines
 
-### **Additional instruments and skils**:
+### **Additional instruments and skills**:
 * Git, Rest, Docker / docker-compose, GoF Design Patterns, OOP
 
 ## WORK HISTORY
